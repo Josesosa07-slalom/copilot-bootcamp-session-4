@@ -84,6 +84,15 @@ capabilities = {
         "capacity": 25,
         "consultants": ["ella.clark@slalom.com", "scarlett.lewis@slalom.com"]
     },
+    "Slalom Build": {
+        "description": "Product strategy, UX research, and agile digital product delivery",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": ["Certified Scrum Product Owner", "Pragmatic Product Management", "PSPO I"],
+        "industry_verticals": ["Consumer Products", "Fintech", "Healthtech"],
+        "capacity": 32,
+        "consultants": ["marcus.thomas@slalom.com", "riley.parker@slalom.com"]
+    },
     "Business Intelligence": {
         "description": "Enterprise reporting, data warehousing, and business analytics",
         "practice_area": "Technology",
